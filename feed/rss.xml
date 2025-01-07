@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom" >
+    <channel> 
+        <atom:link href="https://daw107.ieslossauces.es/feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <title>DAW 107 Véronique Grué </title>        
+        <language>es-es</language>
+        <copyright>Copyright © 2024.Véronique Grué. Todos los derechos reservados</copyright>
+       <image>
+            <url>https://daw107.ieslossauces.es/webroot/media/favicon/favicon-96x96.png</url>
+            <title>DAW 107 Véronique Grué</title>
+            <link>https://daw107.ieslossauces.es</link>
+            <width>96</width>
+            <height>96</height>
+        </image>
+        <lastBuildDate>Fri, 06 Dec 2024 02:27:21 +0200</lastBuildDate>
+        <link>https://daw107.ieslossauces.es</link>
+        <description>
+        Actualidad de la página
+        </description>
+        <skipDays>
+        <day>Saturday</day>
+        <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+        <hour>0</hour>
+        <hour>1</hour>
+        <hour>2</hour>
+        <hour>3</hour>
+        <hour>4</hour>
+        <hour>5</hour>
+        <hour>6</hour>
+        <hour>7</hour>
+        <hour>8</hour>
+        </skipHours>
+        <item>
+            <title>Validar RSS</title>
+            <link>https://daw107.ieslossauces.es/</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/valid-rss.png" width="88" height="31" alt="Juegos"/> 
+           <p>Validar RSS</p> ]]>
+            </description>
+            <pubDate>Wed, 18 Dec 2024 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Validar RSS</guid>
+        </item>
+        <item>
+            <title>Examen 02</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/02/inicio.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/examen_02.png" width="88" height="31" alt="Juegos"/> 
+           <p>Los Juegos del Hambre</p> ]]>
+            </description>
+            <pubDate>Mon, 16 Dec 2024 21:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Examen 02</guid>
+        </item>
+        <item>
+            <title>Práctica ud2.03</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud2/03/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ud2_03.png" width="88" height="31" alt="Formulario"/> <p>Formulario</p> ]]>
+            </description>
+            <pubDate>Mon, 16 Dec 2024 21:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud2.03</guid>
+        </item>
+        <item>
+            <title>Práctica ud4.03</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/03/03.xml</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ud4.03_2.png" width="88" height="31" alt="Programming 
+           languages"/> <p>Programming languages</p> ]]>
+            </description>
+            <pubDate>Fri, 06 Dec 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud4.03</guid>
+        </item>
+        <item>
+            <title>Incorporación del icono de Validation HTML </title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud2/01/01.xml</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/W3C®_Icon.svg" width="88" height="31" alt="Icono W3C"/> <p>Icono W3C</p> ]]>
+            </description>
+            <pubDate>Fri, 06 Dec 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Incorporación del icono de Validation HTML</guid>
+        </item>
+        <item>
+            <title>Práctica ud4.02</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/02/02.xml</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ud4.02.png" width="88" height="31" alt="XML Librería"/> <p>XML Librería</p> ]]>
+            </description>
+            <pubDate>Fri, 06 Dec 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud4.02</guid>
+        </item>
+        <item>
+            <title>Práctica ud1.01</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud1/docs/MapaIntroLenguajesdemarcado-V%C3%A9roniqueGru%C3%A9.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/107LMSGIProyectoLMSGI/ud1/images/MapaLenguajes.png" width="88" height="31" alt="Mapa mental Lenguajes"/> <p>Mapa mental Lenguajes</p> ]]>
+            </description>
+            <pubDate>Sun, 01 Dec 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud1.01</guid>
+        </item>
+        <item>
+            <title>Práctica ud2.04.2</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud2/04.2/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/107LMSGIProyectoLMSGI/ud2/04.2/images/MulpimediaPasteleria.jpeg" width="88" height="31"  alt="Multimedia Repostería"/> <p>Multimedia Pepostería</p> ]]>
+            </description>
+            <pubDate>Sat, 30 Nov 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud2.04.2</guid>
+        </item>
+        <item>
+            <title>Práctica ud4.01</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/01/01.xml</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/107LMSGIProyectoLMSGI/ud4/01/media/images/NotaXML.png" width="88" height="31" alt="Postit XML"/> <p>XML DTD Schema XML</p> ]]>
+            </description>
+            <pubDate>Tue, 26 Nov 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud4.01</guid>
+        </item>
+        <item>
+            <title>Práctica ud2.06 RSS</title>
+            <link>https://daw107.ieslossauces.es/feed/canal.xml</link>
+            <description> 
+            <![CDATA[ <img src="https://daw107.ieslossauces.es/webroot/media/images/iconoRSS.jpg" width="88" height="31" alt="Icono RSS"/> <p>Sindicación de contenido</p> ]]>
+            </description>
+            <pubDate>Tue, 26 Nov 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud2.06</guid>
+        </item>
+        <item>
+            <title>Práctica ud2.02.2 (CSS)</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud2/02.2/index.html</link>
+            <description> 
+             <![CDATA[ <img src="https://daw107.ieslossauces.es/webroot/media/images/HorarioPos.png" width="88" height="31" alt="Horario Posicionamiento"/> <p>Posicionamiento e iconos</p> ]]>
+            </description>
+            <pubDate>Wed, 13 Nov 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud2.02.2</guid>
+        </item>
+        <item>
+            <title>Práctica ud2.02 (CSS)</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud2/02/index.html</link>
+            <description> 
+             <![CDATA[ <img src="https://daw107.ieslossauces.es/webroot/media/images/HorarioMod.png" width="88" height="31" alt="Horario Modificado"/> <p>Modificación del horario</p> ]]>
+            </description>
+            <pubDate>Wed, 13 Nov 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Práctica ud2.02</guid>
+        </item>
+       </channel>
+</rss>
