@@ -14,3 +14,21 @@
              <li ><a class="subrayado" href="">OPT</a></li> 
           </ul>
       </nav>
+      
+# Título en Markdown
+
+Este es un párrafo en **Markdown**.
+
+<div style="color: blue; font-weight: bold;">
+Este es un párrafo en HTML con estilo.
+</div>
+
+## Lista combinada
+
+- Elemento de lista en Markdown.
+- Otro elemento de lista.
+
+<ul>
+  <li>Elemento de lista en HTML</li>
+  <li style="color: red;">Elemento con estilo en HTML</li>
+</ul>
