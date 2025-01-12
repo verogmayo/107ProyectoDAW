@@ -32,6 +32,16 @@
         <hour>7</hour>
         <hour>8</hour>
         </skipHours>
+           <item>
+            <title>Proyecto subido a Github</title>
+            <link>https://daw107.ieslossauces.es/</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Github.png" width="88" height="31" alt="Github"/> 
+           <p>Enlace Github</p> ]]>
+            </description>
+            <pubDate>Fri, 10 Jan 2024 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Enlace Github</guid>
+        </item>
         <item>
             <title>Validar RSS</title>
             <link>https://daw107.ieslossauces.es/</link>
