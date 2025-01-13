@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<!-- Declaración de grupo de atributo-->
+<xs:attributeGroup name="grupoAttlibro">
+</xs:attributeGroup>
 <!-- Declaracion de tipos simples-->
 
 <!-- Declaracion de tipos complejos-->
@@ -13,15 +16,7 @@
 <xs:attribute name="id" type="xs:ID" use="required"/>
 <xs:attribute name="genero" type="xs:string" use="optional"/>
 <xs:attribute name="idioma" type="xs:string" default="Español"/>
-
-<xs:attribute name="formato" default="impreso">
-<xs:simpleType>
-<xs:restriction base="xs:string">
-<xs:enumeration value="impreso"/>
-<xs:enumeration value="digital"/>
-</xs:restriction>
-</xs:simpleType>
-</xs:attribute>
+<xs:attribute name="formato" default="impreso"/>
 <xs:attribute name="referencia" type="xs:IDREF" use="optional"/>
 </xs:complexType>
 <!--  autores (autor+) -->
