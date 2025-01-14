@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="css/estilos.css"?>
-<programmingLanguages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="03.xsd"></programmingLanguages>
 <!DOCTYPE programmingLanguages SYSTEM '03.dtd'>
-<programmingLanguages>
+<programmingLanguages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="03.xsd">
     <language name="Python">
         <description>
             Python es un lenguaje de programacion interpretado, de alto nivel y de propósito general.

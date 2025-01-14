@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <!-- Declaracion de elmento complejo : tipolenguaje-->
-    <xs:complexType name="tipolenguage">
+    <xs:complexType name="tipolenguaje">
     <xs:sequence>
     <xs:element name="description" type="xs:string"></xs:element>
     <xs:element name="example" type="xs:string"></xs:element>
@@ -9,9 +9,10 @@
     <xs:attribute name="name" type="xs:string"></xs:attribute>
     </xs:complexType>
     <!-- Declaracion de elmentro raiz-->
-    <xs:element name="root-element">
+    <xs:element name="programmingLanguages">
         <xs:complexType>
-        <xs:sequence><xs:element name="language" type="tipolenguage" maxOccurs="unbounded"/>
+        <xs:sequence>
+        <xs:element name="language" type="tipolenguaje" maxOccurs="unbounded"/>
         </xs:sequence>
         </xs:complexType>
     </xs:element>
