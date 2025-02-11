@@ -32,6 +32,106 @@
         <hour>7</hour>
         <hour>8</hour>
         </skipHours>
+        <item>
+            <title>XPATH Tickets</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud5/03/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Xpath.jpg" width="88" height="31" alt="XPATH Tic"/> 
+           <p>XPATH Tickets</p> ]]>
+            </description>
+            <pubDate>Fri, 07 Feb 20255 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XPATH Tickets</guid>
+        </item>
+        <item>
+            <title>XPATH Alumnos - PDF</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud5/02/01.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Xpath.jpg" width="88" height="31" alt="XPATH Al"/> 
+           <p>XPATH Alumnos</p> ]]>
+            </description>
+            <pubDate>Fri, 07 Feb 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XPATH Alumnos</guid>
+        </item>
+        <item>
+            <title>XSD Uni Universidad</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/04.02/universidad.xsd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/logoXSD.png" width="88" height="31" alt="XSD Uni Uni"/> 
+           <p>XSD Uni Universidad</p> ]]>
+            </description>
+            <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSD Uni Universidad</guid>
+        </item>
+        <item>
+            <title>XSD Carreras Universidad</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/04.02/carreras.xsd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/logoXSD.png" width="88" height="31" alt="XSD Carreras Uni"/> 
+           <p>XSD Carreras Universidad</p> ]]>
+            </description>
+            <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSD Carreras Universidad</guid>
+        </item>
+        <item>
+            <title>XSD Asignaturas Universidad</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/04.02/asignaturas.xsd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/logoXSD.png" width="88" height="31" alt="XSD Asignaturas Uni"/> 
+           <p>XSD Asignaturas Universidad</p> ]]>
+            </description>
+            <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSD Asignaturas Universidad</guid>
+        </item>
+        <item>
+            <title>XSD Alumnos Universidad</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/04.02/alumnos.xsd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/logoXSD.png" width="88" height="31" alt="XSD Alummos Uni"/> 
+           <p>XSD Alumnos Universidad</p> ]]>
+            </description>
+            <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSD Alumnos Universidad</guid>
+        </item>
+        <item>
+            <title>XSD Universidad</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/04.02/04.02.xsd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/logoXSD.png" width="88" height="31" alt="XSD Uni"/> 
+           <p>XSD Universidad</p> ]]>
+            </description>
+            <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSD Universidad</guid>
+        </item>
+        <item>
+            <title>DTD Universidad</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/04.02/04.02.dtd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/logoDTD.png" width="88" height="31" alt="DTD Uni"/> 
+           <p>DTD Universida</p> ]]>
+            </description>
+            <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">DTD Universidad</guid>
+        </item>
+        <item>
+            <title>XML Universidad</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud4/04.02/04.02.xml</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/logoXML.png" width="88" height="31" alt="XML Uni"/> 
+           <p>XML Universidad</p> ]]>
+            </description>
+            <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XML Universidad</guid>
+        </item>
+         <item>
+            <title>XPath Universidad</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud5/01/01.md</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Xpath.jpg" width="88" height="31" alt="XPath"/> 
+           <p>XPath Universidad</p> ]]>
+            </description>
+            <pubDate>Thu, 30 Jan 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Xpath Universidad</guid>
+        </item>
            <item>
             <title>Proyecto subido a Github</title>
             <link>https://daw107.ieslossauces.es/</link>
