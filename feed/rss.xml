@@ -33,13 +33,43 @@
         <hour>8</hour>
         </skipHours>
         <item>
+            <title>XSL Predicción</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud5/07/target/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/XSL_Prediccion.jpeg" width="88" height="31" alt="XSL Predicción"/> 
+           <p>XSL Predicción</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Feb 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSL Predicción</guid>
+        </item>
+        <item>
+            <title>XSL Network</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud5/06/target/index.yaml</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/XSL_Network.jpeg" width="88" height="31" alt="XSL Network"/> 
+           <p>XSL Network</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Feb 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSL Network</guid>
+        </item>
+        <item>
+            <title>XSL Test</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud5/04/target/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/XSL_Test.jpeg" width="88" height="31" alt="XSL Test"/> 
+           <p>XSL Test</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Feb 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSL Test</guid>
+        </item>
+        <item>
             <title>XPATH Tickets</title>
             <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud5/03/index.html</link>
             <description> 
            <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Xpath.jpg" width="88" height="31" alt="XPATH Tic"/> 
            <p>XPATH Tickets</p> ]]>
             </description>
-            <pubDate>Fri, 07 Feb 20255 18:00:00 +0100</pubDate>
+            <pubDate>Fri, 07 Feb 2025 18:00:00 +0100</pubDate>
             <guid isPermaLink="false">XPATH Tickets</guid>
         </item>
         <item>
