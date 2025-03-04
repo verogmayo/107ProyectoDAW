@@ -4,37 +4,52 @@
     --grisBAlu:#E4F0ED;
 }
 *{
+    margin: 0 auto;
     padding: 0;
-    margin: 0;
 }
 header{
     text-align: center;
     padding: 2,5em;
     margin-top: 5em;
+    margin-bottom: 5em;
+    
 }
 h1{
     color: var(--grisBAlu);
     font-family: 'Amatic SC';
     font-size: 50px;
+    
 }
 h2{
     color: var(--rosaBalu);
     font-family: 'Amatic SC';
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
-    margin-bottom: 1em;
+    margin-bottom: 4em;
+}
+html, body{
+    height: 100%;/* Para que ocupe todo el espacio y el footer esté pegado al borde inferior*/
 }
 body{
-    background-image: url(../media/images/Balu-1.png);
-    background-size: cover;  
+   /* background-image: url(../media/images/Balu-1.png);*/
+   background-color: #56B8A4;
+ 
 }
 section{
-    margin-top: 15em;
-    margin-bottom: 10em;
-    height: 30em;
+    
+    padding-top: 15em;
+    
+    background-image: url(../media/images/nuage3.png);
+    background-size:100%;  
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    padding-bottom: 10em;
+    
 }
 .contenedor{
     display: flex;
+   
     height: 3,1em;
    justify-content: space-around;
     flex-direction: row;
@@ -147,7 +162,8 @@ footer{
     width: 100%;
     background-color:#E4F0ED;
     height: 100px;
-    font-family:'Handlee'
+    font-family:'Handlee';
+    padding: 10px 0;
 }
 #iconos{
     display: flex;
