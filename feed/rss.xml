@@ -33,6 +33,36 @@
         <hour>8</hour>
         </skipHours>
         <item>
+            <title>MD Examen 3</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/03.md</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3MD.PNG" width="88" height="31" alt="MD Examen 3"/> 
+           <p>MD Examen 3</p> ]]>
+            </description>
+            <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">MD Examen 3</guid>
+        </item>
+        <item>
+            <title>DTD Examen 3</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/02.dtd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3DTD.PNG" width="88" height="31" alt="DTD Examen 3"/> 
+           <p>DTD Examen 3</p> ]]>
+            </description>
+            <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">DTD Examen 3</guid>
+        </item>
+        <item>
+            <title>XSD Examen 3</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/01.xsd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3XSD.PNG" width="88" height="31" alt="XSD Examen3"/> 
+           <p>XSD Examen 3</p> ]]>
+            </description>
+            <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSD Examen 3</guid>
+        </item>
+        <item>
             <title>XSL Predicción</title>
             <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud5/07/target/index.html</link>
             <description> 
