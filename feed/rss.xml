@@ -32,35 +32,135 @@
         <hour>7</hour>
         <hour>8</hour>
         </skipHours>
-        <item>
-            <title>MD Examen 3</title>
-            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/03.md</link>
+         <item>
+            <title>Cambios en el index pincipal-CV en el pie de página</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/target/pedido.html</link>
             <description> 
-           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3MD.PNG" width="88" height="31" alt="MD Examen 3"/> 
-           <p>MD Examen 3</p> ]]>
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/indexPrincipal.PNG" width="88" height="31" alt="Cambios index Principal"/> 
+           <p>Cambios index Principal</p> ]]>
             </description>
-            <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
-            <guid isPermaLink="false">MD Examen 3</guid>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Cambios index Principal</guid>
+        </item>
+         <item>
+            <title>HTML-Examen 3-Pedido</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/target/pedido.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3.PNG" width="88" height="31" alt="HTML-Examen 3-Pedido"/> 
+           <p>HTML-Examen 3-Pedido</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">HTML-Examen 3-Pedido</guid>
         </item>
         <item>
-            <title>DTD Examen 3</title>
-            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/02.dtd</link>
+            <title>XSL-Examen 3-Pedido</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/src/pedido.xsl</link>
             <description> 
-           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3DTD.PNG" width="88" height="31" alt="DTD Examen 3"/> 
-           <p>DTD Examen 3</p> ]]>
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3.PNG" width="88" height="31" alt="XSL-Examen 3-Pedido"/> 
+           <p>XSL-Examen 3-Pedido</p> ]]>
             </description>
-            <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
-            <guid isPermaLink="false">DTD Examen 3</guid>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSL-Examen 3-Pedido</guid>
         </item>
         <item>
-            <title>XSD Examen 3</title>
-            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/01.xsd</link>
+            <title>XSD-Examen 3-Pedido</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/input/pedido.xsd</link>
             <description> 
-           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3XSD.PNG" width="88" height="31" alt="XSD Examen3"/> 
-           <p>XSD Examen 3</p> ]]>
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3.PNG" width="88" height="31" alt="XSD-Examen 3-Pedido"/> 
+           <p>XSD-Examen 3-Pedido</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSD-Examen 3-Pedido</guid>
+        </item>
+        <item>
+            <title>DTD-Examen 3-Componentes</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/input/componentes.dtd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen3.PNG" width="88" height="31" alt="DTD-Examen 3-Componentes"/> 
+           <p>DTD-Examen 3-Componentes</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">DTD-Examen 3-Componentes</guid>
+        </item>
+        <item>
+            <title>03-MD Ex2Ev-02</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/Ex2ev-02/src/Xpath.md</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ex2ev-02.PNG" width="88" height="31" alt="03-MD Ex2Ev-02"/> 
+           <p>03-MD Ex2Ev-02</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">03-MD Ex2Ev-02</guid>
+        </item>
+        <item>
+            <title>02-XML Ex2Ev-02</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/Ex2ev-02/target/JoaquinSabina.xml</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ex2ev-02.PNG" width="88" height="31" alt="02-XML Ex2Ev-02"/> 
+           <p>02-XML Ex2Ev-02</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">02-XML Ex2Ev-02</guid>
+        </item>
+        <item>
+            <title>02-XSL Ex2Ev-02</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/Ex2ev-02/src/FmAXml.xsl</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ex2ev-02.PNG" width="88" height="31" alt="02-XSL Ex2Ev-02"/> 
+           <p>02-XSL Ex2Ev-02</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">02-XSL Ex2Ev-02</guid>
+        </item>
+        <item>
+            <title>01-HTML Ex2Ev-02</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/Ex2ev-02/target/JoaquinSabina.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ex2ev-02.PNG" width="88" height="31" alt="01-HTML Ex2Ev-02"/> 
+           <p>01-HTML Ex2Ev-02</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">01-HTML Ex2Ev-02</guid>
+        </item>
+        <item>
+            <title>01-XSL Ex2Ev-02</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/Ex2ev-02/src/FmAWeb.xsl</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ex2ev-02.PNG" width="88" height="31" alt="01-XSL Ex2Ev-02"/> 
+           <p>01-XSL Ex2Ev-02</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">01-XSL Ex2Ev-02</guid>
+        </item>
+        <item>
+            <title>MD Ex2ev-01</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/Ex2ev-01/03.md</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ex2ev-01.PNG" width="88" height="31" alt="MD Ex2ev-01"/> 
+           <p>MD Ex2ev-01</p> ]]>
             </description>
             <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
-            <guid isPermaLink="false">XSD Examen 3</guid>
+            <guid isPermaLink="false">MD Ex2ev-01</guid>
+        </item>
+        <item>
+            <title>DTD Ex2ev-01</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/Ex2ev-01/02.dtd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ex2ev-01.PNG" width="88" height="31" alt="DTD Ex2ev-01"/> 
+           <p>DTD Ex2ev-01</p> ]]>
+            </description>
+            <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">DTD Ex2ev-01</guid>
+        </item>
+        <item>
+            <title>XSD Ex2ev-01</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/Ex2ev-01/01.xsd</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ex2ev-01.PNG" width="88" height="31" alt=">XSD Ex2ev-01"/> 
+           <p>XSD Ex2ev-01</p> ]]>
+            </description>
+            <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XSD Ex2ev-01</guid>
         </item>
         <item>
             <title>XSL Predicción</title>
