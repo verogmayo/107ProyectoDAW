@@ -32,9 +32,59 @@
         <hour>7</hour>
         <hour>8</hour>
         </skipHours>
+        <item>
+            <title>Ejemplos de usos Visual Studio Code - EEDD</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/EjemploDeUsoVS.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Usos Visual"/> 
+           <p>Usos Visual</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Usos Visual</guid>
+        </item>
+         <item>
+            <title>Herramientas Utilizadas - EEDD</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/IDEs-Véronique-Grué.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ej1ED.PNG" width="88" height="31" alt="Herramientas Utilizadas"/> 
+           <p>Herramientas Utilizadas</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Herramientas Utilizadas</guid>
+        </item>
+        <item>
+            <title>Actualización Proyectos Programación</title>
+            <link>https://daw107.ieslossauces.es/107PROGProyectoPROG/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/PROG.PNG" width="88" height="31" alt="Proyectos Programación"/> 
+           <p>Proyectos Programación</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Proyectos Programación</guid>
+        </item>
+         <item>
+            <title>Actualización Proyectos BBDD</title>
+            <link>https://daw107.ieslossauces.es/107BBDDProyectoBBDD/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/BBDD.PNG" width="88" height="31" alt="Proyectos BBDD"/> 
+           <p>Proyectos BBDD</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Proyectos BBDD</guid>
+        </item>
+        <item>
+            <title>Enlaces a las otras asignaturas en la pagina principal</title>
+            <link>https://daw107.ieslossauces.es/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/indexPrincipal.PNG" width="88" height="31" alt="Enlaces asignaturas"/> 
+           <p>Enlaces asignaturas</p> ]]>
+            </description>
+            <pubDate>Fri, 21 Mar 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Enlaces asignaturas</guid>
+        </item>
          <item>
             <title>Cambios en el index pincipal-CV en el pie de página</title>
-            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/03/target/pedido.html</link>
+            <link>https://daw107.ieslossauces.es/index.html</link>
             <description> 
            <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/indexPrincipal.PNG" width="88" height="31" alt="Cambios index Principal"/> 
            <p>Cambios index Principal</p> ]]>
