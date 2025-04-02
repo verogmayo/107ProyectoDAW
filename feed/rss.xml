@@ -33,6 +33,26 @@
         <hour>8</hour>
         </skipHours>
         <item>
+            <title>Ejemplos de usos Filezilla - EEDD</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/EjemploDeUsoFZ.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Usos FZ "/> 
+           <p>Usos FZ</p> ]]>
+            </description>
+            <pubDate>Wed, 02 Apr 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Usos FZ</guid>
+        </item>
+        <item>
+            <title>Ejemplos de usos Workbench - EEDD</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/EjemploDeUsoWB.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Usos WB "/> 
+           <p>Usos WB</p> ]]>
+            </description>
+            <pubDate>Wed, 02 Apr 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Usos WB</guid>
+        </item>
+        <item>
             <title>Funciones de botones javascript</title>
             <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud3/01/01.html</link>
             <description> 
