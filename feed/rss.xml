@@ -33,10 +33,20 @@
         <hour>8</hour>
         </skipHours>
         <item>
+            <title>UD3 - Actividad 2</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/Ud3/02/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Ud3-02.PNG" width="88" height="31" alt="Ud3-02 "/> 
+           <p>Ud3-02s</p> ]]>
+            </description>
+            <pubDate>Wed, 09 Apr 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Ud3-02</guid>
+        </item>
+        <item>
             <title>Diagrama de clases - EEDD</title>
             <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/Diagrama%20de%20clases%20ETT.png</link>
             <description> 
-           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Clases "/> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/DClasesETT.PNG" width="88" height="31" alt="Clases "/> 
            <p>Clases</p> ]]>
             </description>
             <pubDate>Wed, 09 Apr 2025 09:00:00 +0100</pubDate>
@@ -46,7 +56,7 @@
             <title>Ejercicios IA - EEDD</title>
             <link>https://github.com/verogmayo/107EDProyectoED/tree/master/EjerciciosIA</link>
             <description> 
-           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Ej IA "/> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/EjIAED.PNG" width="88" height="31" alt="Ej IA "/> 
            <p>Ej IA</p> ]]>
             </description>
             <pubDate>Wed, 09 Apr 2025 09:00:00 +0100</pubDate>
