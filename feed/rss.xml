@@ -33,6 +33,56 @@
         <hour>8</hour>
         </skipHours>
         <item>
+            <title>Diagrama de clases - EEDD</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/Diagrama%20de%20clases%20ETT.png</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Clases "/> 
+           <p>Clases</p> ]]>
+            </description>
+            <pubDate>Wed, 09 Apr 2025 09:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Clases</guid>
+        </item>
+        <item>
+            <title>Ejercicios IA - EEDD</title>
+            <link>https://github.com/verogmayo/107EDProyectoED/tree/master/EjerciciosIA</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Ej IA "/> 
+           <p>Ej IA</p> ]]>
+            </description>
+            <pubDate>Wed, 09 Apr 2025 09:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Ej IA</guid>
+        </item>
+        <item>
+            <title>Ejemplos de usos IA - EEDD</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/EjemploDeUsoGit.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Usos IA "/> 
+           <p>Usos IA</p> ]]>
+            </description>
+            <pubDate>Wed, 09 Apr 2025 09:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Usos IA</guid>
+        </item>
+        <item>
+            <title>Ejemplos de usos Git - EEDD</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/EjemploDeUsoGit.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Usos Git "/> 
+           <p>Usos Git</p> ]]>
+            </description>
+            <pubDate>Wed, 09 Apr 2025 09:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Usos Git</guid>
+        </item>
+        <item>
+            <title>Ejemplos de usos Git Hub - EEDD</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/EjemploDeUsoGH.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/IDE-VS-ED.PNG" width="88" height="31" alt="Usos GH "/> 
+           <p>Usos GH</p> ]]>
+            </description>
+            <pubDate>Wed, 09 Apr 2025 09:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Usos GH</guid>
+        </item>
+        <item>
             <title>Ejemplos de usos Filezilla - EEDD</title>
             <link>https://daw107.ieslossauces.es/107EDProyectoED/docs/EjemploDeUsoFZ.pdf</link>
             <description> 
