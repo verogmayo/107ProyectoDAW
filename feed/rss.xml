@@ -33,14 +33,34 @@
         <hour>8</hour>
         </skipHours>
         <item>
+            <title>UD6 Actividad 5 - Ejercicios Academia</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud6/05/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ud6-05.PNG" width="88" height="31" alt="XQueryAca "/> 
+           <p>XQueryAca</p> ]]>
+            </description>
+            <pubDate>Fri, 23 May 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XQueryAca</guid>
+        </item>
+        <item>
+            <title>UD6 Actividad 4 - Ejercicios Facturas</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud6/04/index.html</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ud6-04.PNG" width="88" height="31" alt="XQueryFact "/> 
+           <p>XQueryFact</p> ]]>
+            </description>
+            <pubDate>Fri, 23 May 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">XQueryFact</guid>
+        </item>
+        <item>
             <title>UD6 Actividad 3 - Ejercicios XQuery</title>
-            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud6/03/index.html</link>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud6/03/indexjs.html</link>
             <description> 
            <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ud6-03.PNG" width="88" height="31" alt="XQuery "/> 
            <p>XQuery</p> ]]>
             </description>
             <pubDate>Fri, 16 May 2025 18:00:00 +0100</pubDate>
-            <guid isPermaLink="false">Xquery</guid>
+            <guid isPermaLink="false">XQuery</guid>
         </item>
         <item>
             <title>UD6 Actividad 2 - Cargar lista Json en el navegador</title>
