@@ -30,8 +30,38 @@
         <hour>5</hour>
         <hour>6</hour>
         <hour>7</hour>
-        <hour>8</hour>
+        <hour>8</hour> 
         </skipHours>
+        <item>
+            <title>ED- Análisis Ríos-Diagrama Atributos</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/3-AnalisisRios/RiosAtributos.png</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ed-RiosDA.PNG" width="88" height="31" alt="AnalisisRiosDA "/> 
+           <p>AnalisisRiosDA</p> ]]>
+            </description>
+            <pubDate>Thr, 27 May 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">AnalisisRiosDA</guid>
+        </item>
+        <item>
+            <title>ED- Análisis Ríos-Diagrama</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/3-AnalisisRios/Rios.png</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ed-RiosD.PNG" width="88" height="31" alt="AnalisisRiosD "/> 
+           <p>AnalisisRiosD</p> ]]>
+            </description>
+            <pubDate>Thr, 27 May 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">AnalisisRiosD</guid>
+        </item>
+        <item>
+            <title>ED- Análisis Ríos-PDF</title>
+            <link>https://daw107.ieslossauces.es/107EDProyectoED/3-AnalisisRios/AnalisisRios.pdf</link>
+            <description> 
+           <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/ed-Rios.PNG" width="88" height="31" alt="AnalisisRios "/> 
+           <p>AnalisisRios</p> ]]>
+            </description>
+            <pubDate>Thr, 27 May 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">AnalisisRios</guid>
+        </item>
         <item>
             <title>UD6 Actividad 5 - Ejercicios Academia</title>
             <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/ud6/05/index.html</link>
