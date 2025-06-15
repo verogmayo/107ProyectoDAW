@@ -33,6 +33,36 @@
         <hour>8</hour> 
         </skipHours>
         <item>
+            <title>Examen 04. Horoscopo/Signos del zodiaco-Terminado-XSD </title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/04/data/zodiaco.xsd</link>
+            <description> 
+                <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen04-xsd.PNG" width="88" height="31" alt="Examen04-Xsd"/> 
+           <p>Examen04-Xsd</p> ]]>
+            </description>
+            <pubDate>Fri, 13 Jun 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Examen04-Xsd</guid>
+        </item>
+        <item>
+            <title>Examen 04. Horoscopo/Signos del zodiaco-Terminado- Index</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/04/target/index.html</link>
+            <description> 
+                <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen04.PNG" width="88" height="31" alt="Examen04-Index"/> 
+           <p>Examen04-Index</p> ]]>
+            </description>
+            <pubDate>Fri, 13 Jun 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Examen04-Index</guid>
+        </item>
+        <item>
+            <title>Examen 04. Horoscopo/Signos del zodiaco</title>
+            <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/04/target/index.html</link>
+            <description> 
+                <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Examen04.PNG" width="88" height="31" alt="Examen04 "/> 
+           <p>Examen04</p> ]]>
+            </description>
+            <pubDate>Mon, 9 Jun 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Examen04</guid>
+        </item>
+        <item>
             <title>Examen Ex3ev-03 - 04-HTML</title>
             <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/Ex3ev-03/target/04.json</link>
             <description> 
