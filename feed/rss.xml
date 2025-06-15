@@ -33,6 +33,26 @@
         <hour>8</hour> 
         </skipHours>
         <item>
+            <title>App Agencia Alquiler </title>
+            <link>https://daw107.ieslossauces.es/107PROGProyectoPROG/index.html</link>
+            <description> 
+                <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/Prog-AAlquiler.PNG" width="88" height="31" alt="Prog-AAlquiler"/> 
+           <p>AAlquiler</p> ]]>
+            </description>
+            <pubDate>Fri, 13 Jun 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">AAlquilers</guid>
+        </item>
+        <item>
+            <title>App Sistema Nominas </title>
+            <link>https://daw107.ieslossauces.es/107PROGProyectoPROG/index.html</link>
+            <description> 
+                <![CDATA[ <img src="https://daw107.ieslossauces.es/weebroot/media/images/prog-SNomnas.PNG" width="88" height="31" alt="Prog-SNominas"/> 
+           <p>Prog-SNominas</p> ]]>
+            </description>
+            <pubDate>Fri, 13 Jun 2025 18:00:00 +0100</pubDate>
+            <guid isPermaLink="false">Prog-SNominas</guid>
+        </item>
+        <item>
             <title>Examen 04. Horoscopo/Signos del zodiaco-Terminado-XSD </title>
             <link>https://daw107.ieslossauces.es/107LMSGIProyectoLMGSI/examen/04/data/zodiaco.xsd</link>
             <description> 
