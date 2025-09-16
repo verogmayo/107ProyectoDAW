@@ -18,6 +18,7 @@
     <meta name="robots" content="index, follow">
     <!-- Este es el que aparece en la pestaña de la pagina web del navegador-->
     <link type="images/png" rel="icon" href="../">
+    <title>Véro Grué - Diseño de Aplicaciones Web</title>
     <!-- Link a la carpeta local de CSS -->
     <link href="webroot/css/estilos.css" rel="stylesheet" type="text/css">
     <link type="images/png" rel="icon" href="Webroot/media/favicon/favicon-96x96.png">
@@ -26,22 +27,41 @@
     <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Handlee&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" type="text/css" rel="stylesheet">
     <link rel="alternate" type="application/rss+xm" title="título" href="canal.xml">
+
+    <!--Open Graph, para personalizar titulo y descripcion para redes sociales. 
+    url para ver el resultado introduciendo la url del sitio web : https://www.opengraph.xyz/ 
+    Si no quieres hacer lo manualmente, puede copiar el codigo que te genera en la pagina web para cada red social .-->
+    <meta property="og:title" content="Véro Grué - Diseño de Aplicaciones Web">
+    <meta property="og:description" content="Puedes ver mi trabajo del curso de DAW.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://daw107.ieslossauces.es/">
+    <meta property="og:image" content="https://daw107.ieslossauces.es/webroot/media/images/imagenOpenGraph.png">
+    <meta property="og:site_name" content="mi Web">
 </head>
 <body>
     <header>
-        <div class="contenedor2">
+        <div  class="header">
+            <h2 class="nombre">Véronique Grué</h2>
+            
+        <nav class="nav-bar">
+            <a href="#inicio">Inicio</a>
+            <!--En el caso de hacer el js de active
+            <a href="#inicio" class="active">Inicio</a>-->
+            <a href="#curso1">Curso 1</a>
+            <a href="#curso2">Curso 2</a>
+        </nav>
+        </div>
+        <div id="inicio" class="contenedor2">
             <div class="bolita izquierda">JAVA</div>
             <div class="bolita Cizquierda">CSS</div>
             <div class="bolita centro">HTML</div>
             <div class="bolita Cderecha">XML</div>
-            <div class="bolita derecha">MYSQL</div>
-            
-            
+            <div class="bolita derecha">MYSQL</div> 
         </div>
         <h1>DISEÑO DE APLICACIONES WEB</h1> 
-        <h2 class="nombre">Véronique Grué</h2>
+        
     </header>
-    <section >
+    <section id="curso1" >
         <h2>CURSO 1</h2>
         <div class="contenedor" >
             <div class="LMGSI" id="rosa"><a id="rosa4"   href="/107LMSGIProyectoLMGSI/index.html" target="_blank">LMGSI</a></div>
@@ -54,6 +74,23 @@
             <div id="rosa2" class="IPE" > <a href="/107IPE1ProyectoIPE1/index.html" target="_blank">IPE1</a></div>
             <div id="verde4" class="OPT"> <a href="/107OPTAProyectoOPTA/index.html" target="_blank">OPT</a></div>
             <div id="rosa3" class="INGLES"> <a href="/107INGLProyectoINGL/index.html" target="_blank">INGLÉS</a></div>
+        </div>
+
+    </section>
+     <section id="curso2" >
+        <h2>CURSO 2</h2>
+        <div class="horario2"><a href="">Horario</a></div>
+        <div class="contenedor" >
+            <div class="LMGSI" id="rosa20"><a id="rosa4"   href="/107LMSGIProyectoLMGSI/index.html" target="_blank" title="Desarrollo web en entorno cliente."  >DWEC</a></div>
+             <div id="verde21" class="BBDD"  > <a href="/107BBDDroyectoBBDD/index.html" target="_blank" title="Desarrollo web en entorno servidor.">DWES</a></div>
+            <div id="rosa21" class="PROG" ><a href="/107PROGProyectoPROG/index.html" target="_blank" title="Diseño de interfaces web.">DIW </a></div>
+            <div id="verde22"  class="EEDD" > <a href="/107EDProyectoED/index.html" target="_blank" title="Despliegue de aplicaciones web.">DAW</a></div>
+        </div>
+        <div class="contenedor">
+            <div id="verde23" class="SSII" > <a href="/107SSIIProyectoSSII/index.html" target="_blank" title="Sostenibilidad aplicada al sistema productivo">SASP</a></div>
+            <div id="rosa22" class="IPE" > <a href="/107IPE1ProyectoIPE1/index.html" target="_blank" title="Itinerario personal para la empleabilidad">IPE2</a></div>
+            <div id="verde24" class="OPT"> <a href="/107OPTAProyectoOPTA/index.html" target="_blank" title="Digitalización aplicada a los sectores productivos">DASP</a></div>
+            <div id="rosa23" class="INGLES"> <a href="/107INGLProyectoINGL/index.html" target="_blank" title="Fundamentos de ciberseguridad">FC</a></div>
         </div>
 
     </section>
@@ -71,7 +108,7 @@
         </div>
         <div>
             <p>2024-25 IES LOS SAUCES. &#169;Todos los derechos reservados.</p> <address>Véronique Grué. Fecha de Actualización :
-                <time datetime="2025-03-21"></time> 21-03-2025 </address>
+                <time datetime="2025-03-21"></time> 16-09-2025 </address>
         </div>
         
     </footer>
